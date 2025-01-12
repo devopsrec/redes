@@ -1,4 +1,4 @@
 # redes 
 # TESTE 
 # Teste 2
-![](C:\Users\Alexandre\Documents\Projetos\AWS_Project\imagens\rede_estrela.JPG)
+![](https://drive.google.com/file/d/1bKca12FR8pgElk6gDCEQ8ZmnUcvGjFIF/view?usp=sharing)
